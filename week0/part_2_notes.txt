@@ -1,0 +1,7 @@
+# Part 2 Unix Notes
+- the shell wraps around the kernel to allow the user to interface with it 
+- the philosophy of unix is that you can link data so that it flows through small programs via pipes
+- for spellchecking: you can process the words in individual steps piped into each other
+- everything is abstracted as a file and creating a file doesn't require you to define all its attributes 
+- a series of commands can be saved into a script to reuse them
+- the shell handles I/O so anything that is a file can do bidirectional data receiving/output, physical printer and devices are files too that you can redirect to 

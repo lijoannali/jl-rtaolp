@@ -1,0 +1,6 @@
+# Paul Graham Notes
+Interesting ideas: 
+- He believes that writing a program that is broken and debugging it until it works is a valid way to work 
+- It's interesting that he urges hackers to move further from mathematics and theory towards thinking of their work like it is an art 
+- He makes a point of hiring engineers who work on open source projects in their free time
+- The idea that hackers need to have a day job and his assertion that hacking isn't cool yet, and that the field is in its nascent stages of rapid development are interesting artifacts from the time when he wrote this piece. 

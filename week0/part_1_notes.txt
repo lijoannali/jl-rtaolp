@@ -1,0 +1,7 @@
+# Part 1 Notes 
+
+## Differences from CLEAR
+-  My set up has a different command prompt compared to clear 
+-  My set up on Mac also uses zsh instead of bash 
+-  Currently, I have additional applications like tldr and other packages installed 
+
